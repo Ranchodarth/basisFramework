@@ -3,6 +3,7 @@
 前端架构模板
     Vue3
     TS
+    pnpm
     Vite
     Pinia
 ## Recommended IDE Setup

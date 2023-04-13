@@ -26,7 +26,7 @@
     index.html:
     package.json:
     tsconfig.json:
-    vite.config.ts:  
+    vite.co  
 
 
 ## Recommended IDE Setup

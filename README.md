@@ -10,6 +10,23 @@
     public：网站公共资源
     src：主文件夹
         api：
+        assets:
+        components:
+        hooks:
+        interface:
+        layoout:
+        router:
+        stores:
+        utils:
+        views:
+        App.vue
+        env.development:
+        env.production:
+        main.ts:
+    index.html:
+    package.json:
+    tsconfig.json:
+    vite.config.ts:  
 
 
 ## Recommended IDE Setup

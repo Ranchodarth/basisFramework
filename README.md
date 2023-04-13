@@ -1,11 +1,17 @@
-# basisFramework
 
-前端架构模板
-    Vue3
-    TS
-    pnpm
-    Vite
-    Pinia
+## 架构：
+    Vue3：  主框架
+    TS：    主语言
+    pnpm：  包管理工具，需要node版本高于14.6
+    Vite：  打包工具，类似webpack
+    Pinia： 数据持久化工具，类似vuex
+
+## 文件夹说明：
+    public：网站公共资源
+    src：主文件夹
+        api：
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
